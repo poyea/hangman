@@ -4,12 +4,20 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\John\Desktop\hangman-master\hangman\obj\Debug\
+=======
+C:\Users\John\source\repos\hangman\hangman\obj\Debug\
+>>>>>>> 1eaec723a4fb9de27a853950699054d9d8958a94
 hangman
 none
 false
 DEBUG;TRACE
+<<<<<<< HEAD
 C:\Users\John\Desktop\hangman-master\hangman\App.xaml
+=======
+C:\Users\John\source\repos\hangman\hangman\App.xaml
+>>>>>>> 1eaec723a4fb9de27a853950699054d9d8958a94
 22112506696
 
 11542207930

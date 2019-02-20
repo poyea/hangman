@@ -8,6 +8,10 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
+<<<<<<< HEAD
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("word_list.txt")]
+=======
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("hangman_icon.ico")]
+>>>>>>> 1eaec723a4fb9de27a853950699054d9d8958a94
 
 

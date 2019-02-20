@@ -15,6 +15,7 @@ C:\Users\John\source\repos\hangman\hangman\obj\Debug\hangman.exe
 C:\Users\John\source\repos\hangman\hangman\obj\Debug\hangman.pdb
 C:\Users\John\source\repos\hangman\hangman\obj\Debug\AboutWindow.g.cs
 C:\Users\John\source\repos\hangman\hangman\obj\Debug\AboutWindow.baml
+<<<<<<< HEAD
 C:\Users\John\Desktop\hangman-master\hangman\bin\Debug\hangman.exe.config
 C:\Users\John\Desktop\hangman-master\hangman\bin\Debug\hangman.exe
 C:\Users\John\Desktop\hangman-master\hangman\bin\Debug\hangman.pdb
@@ -32,3 +33,5 @@ C:\Users\John\Desktop\hangman-master\hangman\obj\Debug\hangman.csproj.GenerateRe
 C:\Users\John\Desktop\hangman-master\hangman\obj\Debug\hangman.csproj.CoreCompileInputs.cache
 C:\Users\John\Desktop\hangman-master\hangman\obj\Debug\hangman.exe
 C:\Users\John\Desktop\hangman-master\hangman\obj\Debug\hangman.pdb
+=======
+>>>>>>> 1eaec723a4fb9de27a853950699054d9d8958a94

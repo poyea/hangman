@@ -110,10 +110,13 @@
   <ItemGroup>
     <Resource Include="hangman_icon.ico" />
   </ItemGroup>
+<<<<<<< HEAD
   <ItemGroup>
     <Resource Include="word_list.txt">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>
+=======
+>>>>>>> 1eaec723a4fb9de27a853950699054d9d8958a94
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
