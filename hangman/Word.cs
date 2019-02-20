@@ -31,16 +31,11 @@ namespace hangman
         {
             get { return theWord; }
         }
-<<<<<<< HEAD
 
-=======
-        
->>>>>>> 1eaec723a4fb9de27a853950699054d9d8958a94
         /*
          * Static constructor for loading all
          * the words into the static List<string> 
          * WordList.
-<<<<<<< HEAD
          */
 
         private Word()
@@ -48,13 +43,6 @@ namespace hangman
             StreamReader sr = new StreamReader("word_list.txt");
             while (!sr.EndOfStream)
             {
-=======
-         */ 
-
-        static Word() {
-            StreamReader sr = new StreamReader("word_list.txt");
-            while (!sr.EndOfStream) {
->>>>>>> 1eaec723a4fb9de27a853950699054d9d8958a94
                 WordList.Add(sr.ReadLine());
             }
         }
