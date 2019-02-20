@@ -12,7 +12,6 @@ C:\Users\John\source\repos\hangman\hangman\obj\Release\hangman.csproj.GenerateRe
 C:\Users\John\source\repos\hangman\hangman\obj\Release\hangman.csproj.CoreCompileInputs.cache
 C:\Users\John\source\repos\hangman\hangman\obj\Release\hangman.exe
 C:\Users\John\source\repos\hangman\hangman\obj\Release\hangman.pdb
-<<<<<<< HEAD
 C:\Users\John\Desktop\hangman-master\hangman\bin\Release\hangman.exe.config
 C:\Users\John\Desktop\hangman-master\hangman\bin\Release\hangman.exe
 C:\Users\John\Desktop\hangman-master\hangman\bin\Release\hangman.pdb
@@ -29,5 +28,4 @@ C:\Users\John\Desktop\hangman-master\hangman\obj\Release\hangman.csproj.Generate
 C:\Users\John\Desktop\hangman-master\hangman\obj\Release\hangman.csproj.CoreCompileInputs.cache
 C:\Users\John\Desktop\hangman-master\hangman\obj\Release\hangman.exe
 C:\Users\John\Desktop\hangman-master\hangman\obj\Release\hangman.pdb
-=======
->>>>>>> 1eaec723a4fb9de27a853950699054d9d8958a94
+C:\Users\John\Desktop\hangman-master\hangman\obj\Release\hangman.csprojAssemblyReference.cache
