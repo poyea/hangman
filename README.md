@@ -11,5 +11,10 @@ Standard rules used in elementary school
 
 3.) No other frameworks adopted
 
+## If you like this, please
+* Star
+* Fork
+* Contribute
+
 ## License
 This repository is licensed under the [WTFPL](http://www.wtfpl.net/). See also [LICENSE.md](LICENSE.md) for details.
