@@ -1,5 +1,5 @@
-# hangman
-A C# HANGMAN game with simple GUI
+# <p align="center">hangman
+<p align="center">A hangman game with simple GUI, using <a href="https://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>.
 
 ## Rules
 Standard rules used in elementary school
