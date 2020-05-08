@@ -19,14 +19,15 @@ namespace hangman
         private static Word wordPack;
         public static Word WordPack
         {
-            get {
-                if (wordPack == null)
+            get
+            {
+                if( wordPack == null )
                     wordPack = new Word();
                 return wordPack;
             }
         }
 
-        private string theWord;   
+        private string theWord;
         public string TheWord
         {
             get { return theWord; }
@@ -41,7 +42,7 @@ namespace hangman
         private Word()
         {
             StreamReader sr = new StreamReader("word_list.txt");
-            while (!sr.EndOfStream)
+            while( !sr.EndOfStream )
             {
                 WordList.Add(sr.ReadLine());
             }
@@ -52,7 +53,7 @@ namespace hangman
             Random rnd = new Random();
             int num = rnd.Next(0, WordList.Count);
             theWord = WordList[num];
-        }                 
-        
+        }
+
     }
 }
