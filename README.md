@@ -11,6 +11,9 @@ Standard rules used in elementary school
 
 3.) No other frameworks adopted
 
+## To build the project
+You need Visual Studio >=2017. 
+
 ## If you like this, please
 * Star
 * Fork
