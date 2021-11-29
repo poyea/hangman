@@ -116,4 +116,7 @@
     </Resource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PostBuildEvent>xcopy "$(ProjectDir)word_list.txt" "$(ProjectDir)bin\$(ConfigurationName)" /Y</PostBuildEvent>
+  </PropertyGroup>
 </Project>
