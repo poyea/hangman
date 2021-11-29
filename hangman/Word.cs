@@ -1,15 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.IO;
 
 namespace hangman
 {
     public class Word
     {
-        private static List<string> WordList = new List<string>();
+        private static readonly List<string> WordList = new List<string>();
 
         /* We can add new words to WordList below.
          * Each time the player starts a new game,
@@ -21,17 +18,15 @@ namespace hangman
         {
             get
             {
-                if( wordPack == null )
+                if (wordPack == null)
+                {
                     wordPack = new Word();
+                }
                 return wordPack;
             }
         }
 
-        private string theWord;
-        public string TheWord
-        {
-            get { return theWord; }
-        }
+        public string TheWord { get; private set; }
 
         /*
          * Static constructor for loading all
@@ -42,7 +37,7 @@ namespace hangman
         private Word()
         {
             StreamReader sr = new StreamReader("word_list.txt");
-            while( !sr.EndOfStream )
+            while (!sr.EndOfStream)
             {
                 WordList.Add(sr.ReadLine());
             }
@@ -52,7 +47,7 @@ namespace hangman
         {
             Random rnd = new Random();
             int num = rnd.Next(0, WordList.Count);
-            theWord = WordList[num];
+            TheWord = WordList[num];
         }
 
     }

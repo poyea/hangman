@@ -8,7 +8,7 @@
         Title="About" Height="174.206" Width="256.33"
         WindowStyle="ToolWindow">
     <Grid>
-        <Label FontFamily="Georgia" FontSize="15" Content="The HANGMAN Game&#xD;&#xA;&#xD;&#xA;Author: @poyea&#xA;Version: 1.0" HorizontalAlignment="Center" VerticalAlignment="Top" Height="89" Width="214" Margin="10,28,0,0"/>
+        <Label FontFamily="Georgia" FontSize="15" Content="The HANGMAN Game&#xA;&#xA;Author: @poyea" HorizontalAlignment="Center" VerticalAlignment="Top" Height="89" Width="214" Margin="10,28,0,0"/>
 
     </Grid>
 </Window>
