@@ -1,8 +1,8 @@
-# <p align="center">hangman
-<p align="center">A hangman game with simple GUI, using <a href="https://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>.
+<img align="left" width="150" height="150" src="https://user-images.githubusercontent.com/24757020/148882487-fa3adbcc-8349-44e2-aa74-1399c9caa5b6.png" alt="hangman?">
 
-## Rules
-Standard rules used in elementary school
+# hangman
+
+A hangman game with simple GUI, using <a href="https://en.wikipedia.org/wiki/Windows_Presentation_Foundation">WPF</a>. We use standard rules that are used in elementary schools. You can modify the list of words to adjust the difficulty.
 
 ## Design principles
 1.) [Singleton](https://en.wikipedia.org/wiki/Singleton_pattern) for Word class
